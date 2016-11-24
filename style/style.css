@@ -1,1 +1,10 @@
-td { width: 180px}  
+.input-group {
+  margin: 20px 0px;
+}
+
+td { width: 180px}
+
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
